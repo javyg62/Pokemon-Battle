@@ -31,3 +31,44 @@ Here are some in-game screenshots to give you a feel for the game:
 
 ### Game Start Screen
 ![image alt](https://github.com/javyg62/Pokemon-Battle/blob/72f2c26a51943545551acf6dbf5b263955c57854/Images/Screenshot%201.png)
+
+### Choose Pokémon
+
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%202.png)
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%203.png)
+
+
+### Battle Example
+
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%204.png)
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%205.png)
+
+### Victory Screen
+
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%208.png)
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%209.png)
+
+### Defeat Screen
+
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%205.png)
+
+
+## Installation
+
+1. Clone the repository.
+   
+       git clone https://github.com/yourusername/pokemon-game.git
+   
+2. Navigate into the project folder
+
+        cd pokemon-game
+
+3. Compile and run the game.
+
+       ./pokemon_game
+
+
+
+
+
+
