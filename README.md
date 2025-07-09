@@ -36,7 +36,8 @@ Here are some in-game screenshots to give you a feel for the game:
 
 ![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%202.png)
 ![image alt](https://github.com/javyg62/Pokemon-Battle/blob/5eedc375a44e3cbe70add054deb23ecb850ff027/Images/Screenshot%203.png)
-
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/a538742ba9dff0a1bbfa33e58462a68426ae348c/Images/Screenshot%206.png)
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/a538742ba9dff0a1bbfa33e58462a68426ae348c/Images/Screenshot%207.png)
 
 ### Battle Example
 
