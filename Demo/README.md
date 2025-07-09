@@ -8,8 +8,6 @@ Welcome to the Pokémon Battle Game! Choose your Pokémon and engage in thrillin
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Game Overview
 
