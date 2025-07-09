@@ -30,3 +30,4 @@ In this game, players can battle various Pokémon by selecting attack options an
 Here are some in-game screenshots to give you a feel for the game:
 
 ### Game Start Screen
+![image alt](https://github.com/javyg62/Pokemon-Battle/blob/72f2c26a51943545551acf6dbf5b263955c57854/Images/Screenshot%201.png)
